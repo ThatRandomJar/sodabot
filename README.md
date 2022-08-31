@@ -1,0 +1,2 @@
+# sodabot
+discord bot
